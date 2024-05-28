@@ -3,17 +3,17 @@ Zonation is a prioritization tool (Moilanen et al. 2005, https://royalsocietypub
 
 Zonation raster values were linked to forest stand polygons with QGIS Zonal statistics tool (r"YourPathToFileWithZonationValues").
 
-Region of interests, forest stands can be dowloaded from  
+Region of interests (forest stands) can be dowloaded from  
 https://avoin.metsakeskus.fi/aineistot/Metsavarakuviot/Maakunta/  
-Variable description   
+Variable description can be found from  
 https://www.metsakeskus.fi/sites/default/files/document/mvjaete-koodisto-ja-tietokantakuvaus_0.xlsx
 
-Zonation results to base the prioritization on, can be downloaded from  
+Zonation prioritization results utilized in these post-processing analyses can be downloaded from
 https://ckan.ymparisto.fi/dataset/monimuotoisuudelle-tarkeat-metsaalueet-high-biodiversity-value-forests-2018-zonation-fin-eng-sw
 
-Conservation areas can be partly found from  
+Conservation areas can be found from  
 https://ckan.ymparisto.fi/dataset/luonnonsuojelu-ja-eramaa-alueet  
 https://ckan.ymparisto.fi/dataset/luonnonsuojeluohjelma-alueet  
 https://ckan.ymparisto.fi/dataset/valtion-muut-suojelualueet  
 https://ckan.ymparisto.fi/dataset/natura2000-alueet  
-Conservation data from private areas is not always open data
+Please note that data on conservation areas from private sites is not always open data
